@@ -1,4 +1,4 @@
-package co.edu.utp.misiontic2022.c2.Ejericicio11_6_a;
+package co.edu.utp.misiontic2022.c2.Ejercicio11_6_a;
 
 public class MainCasa {
     public static void main(String[] args) {

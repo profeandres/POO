@@ -1,4 +1,4 @@
-package co.edu.utp.misiontic2022.c2.Ejericicio11_6_a;
+package co.edu.utp.misiontic2022.c2.Ejercicio11_6_a;
 /*
 Construir una clase con tres atributos de una casa, crear la Clase Casa
 y crear su método Constructor que le asigne valores a los atributos que
